@@ -144,7 +144,7 @@ You can test the API using:
 #### 📌 Example Token Usage
 Header for protected routes:
 
-**Authorization: Bearer <your_token_here>**
+**Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4NzRhMjhkNmRhOTNmZjQzMWZmMmI1NSIsImlhdCI6MTc1MjQ3NDMyMywiZXhwIjoxNzUzMDc5MTIzfQ.JHva7ap7IfbKoi7jhAoHhX1ncfgD-e3lyYj8EeXsTQ4**
 
 
 
