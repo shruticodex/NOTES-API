@@ -30,26 +30,6 @@ A simple and secure RESTful API for user registration, authentication, and note-
 
 ---
 
-## 📁 Project Structure
-
-notes-api/
-├── controllers/
-│ ├── authController.js
-│ └── noteController.js
-├── models/
-│ ├── User.js
-│ └── Note.js
-├── routes/
-│ ├── authRoutes.js
-│ └── noteRoutes.js
-├── middlewares/
-│ └── authMiddleware.js
-├── .env.example
-├── server.js
-└── package.json
-
----
-
 ## 🧪 API Endpoints
 
 ### 🔐 Auth Routes
@@ -58,7 +38,7 @@ notes-api/
 POST /api/auth/register
 
 **Body:**
-```json
+
 {
   "name": "Shruti",
   "email": "shruti@example.com",
